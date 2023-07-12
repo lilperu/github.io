@@ -1,0 +1,9 @@
+# Site settings
+title: Lillian Welsh
+author:
+  name: Lillian Welsh
+  email: lillian.welsh@gmail.com
+description: "Data Portfolio"
+
+# Build settings
+remote_theme: jekyll/minima
